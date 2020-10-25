@@ -1,0 +1,2 @@
+# macspoofing-python
+The best tool for mac spoofing.                                                                                                                                                                           sudo -s                                                                                      apt-get install macchanger                                                                                  chmod +x macspoofing.py                                                                                   python3 macspoofing.py
